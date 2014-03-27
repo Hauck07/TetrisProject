@@ -1,0 +1,46 @@
+#ifndef DEFINE_H_INCLUDED
+#define DEFINE_H_INCLUDED
+
+enum{
+    BLOCK_TYPE_EMPTY = 0,
+    BLOCK_TYPE_RED,
+    BLOCK_TYPE_YELLOW,
+    BLOCK_TYPE_GREEN,
+    BLOCK_TYPE_BLUE,
+    BLOCK_TYPE_PURPLE
+};
+
+enum{
+    MESSAGE_NONE = -1,
+    COLOR_MATCH_1,
+    COLOR_MATCH_2,
+    COLOR_MATCH_3,
+    COLOR_MATCH_4,
+};
+
+enum{
+    LINE_COMBO_2 = 0,
+    LINE_COMBO_3,
+    LINE_COMBO_4
+};
+
+enum{
+    SFX_LINE_COMPLETED = 0,
+    SFX_GAME_OVER
+};
+
+enum GameStates{
+    STATE_NULL,
+    STATE_START_MENU,
+    STATE_MAIN_GAME,
+    STATE_HIGH_SCORE,
+    STATE_EXIT,
+};
+
+enum CurrentInfo{
+    LEVEL,
+    LINES,
+    SCORE,
+    HIGHSCORE,
+};
+#endif // DEFINE_H_INCLUDED

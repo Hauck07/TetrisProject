@@ -1,0 +1,322 @@
+# depslib dependency file v1.0
+1393005860 source:c:\gamesproject\secondtest\secondtest\capp.cpp
+	"CApp.h"
+	<SDL/SDL.h>
+
+1393006427 c:\gamesproject\secondtest\secondtest\capp.h
+	<SDL/SDL.h>
+
+1393016568 source:c:\gamesproject\game\capp.cpp
+	"CApp.h"
+	<SDL/SDL.h>
+
+1393087567 c:\gamesproject\game\capp.h
+	<SDL/SDL.h>
+	"CSurface.h"
+	"CEvent.h"
+
+1393018327 c:\gamesproject\game\csurface.h
+	<SDL/SDL.h>
+
+1393075760 c:\gamesproject\game\cevent.h
+	<SDL/SDL.h>
+
+1393881920 source:c:\dropbox\games project\game\capp.cpp
+	"CApp.h"
+	<SDL/SDL.h>
+
+1393881894 c:\dropbox\games project\game\capp.h
+	<SDL/SDL.h>
+	"CSurface.h"
+	"CEvent.h"
+
+1393882365 c:\dropbox\games project\game\csurface.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1393880640 c:\dropbox\games project\game\cevent.h
+	<SDL/SDL.h>
+
+1393880111 source:c:\dropbox\games project\game\main.cpp
+	"CApp.h"
+
+1393881186 source:c:\dropbox\games project\game\cevent.cpp
+	"CEvent.h"
+
+1393882692 source:c:\dropbox\games project\game\csurface.cpp
+	"CSurface.h"
+
+1393881920 source:c:\dropbox\games project\sdl template - advanced\capp.cpp
+	"CApp.h"
+	<SDL/SDL.h>
+
+1393881894 c:\dropbox\games project\sdl template - advanced\capp.h
+	<SDL/SDL.h>
+	"CSurface.h"
+	"CEvent.h"
+
+1393882365 c:\dropbox\games project\sdl template - advanced\csurface.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1393882788 c:\dropbox\games project\sdl template - advanced\cevent.h
+	<SDL/SDL.h>
+
+1393881186 source:c:\dropbox\games project\sdl template - advanced\cevent.cpp
+	"CEvent.h"
+
+1393882692 source:c:\dropbox\games project\sdl template - advanced\csurface.cpp
+	"CSurface.h"
+
+1393882791 source:c:\dropbox\games project\sdl template - advanced\main.cpp
+	"CApp.h"
+
+1393881186 source:c:\dropbox\games project\tetris\cevent.cpp
+	"CEvent.h"
+
+1393882788 c:\dropbox\games project\tetris\cevent.h
+	<SDL/SDL.h>
+
+1393882692 source:c:\dropbox\games project\tetris\csurface.cpp
+	"CSurface.h"
+
+1393882365 c:\dropbox\games project\tetris\csurface.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1394838982 source:c:\dropbox\games project\tetris\main.cpp
+	"CApp.h"
+
+1395494794 c:\dropbox\games project\tetris\capp.h
+	"BlockPiece.h"
+	"BlockSquare.h"
+	"BlockL.h"
+	"BlockJ.h"
+	"BlockS.h"
+	"BlockZ.h"
+	"BlockI.h"
+	"BlockT.h"
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<stdlib.h>
+	<vector>
+	<string>
+	"CSurface.h"
+	"CEvent.h"
+	"Board.h"
+	"CFPS.h"
+	"CSoundBank.h"
+	"CMessage.h"
+	"Define.h"
+	<cstdio>
+	"HighscoreBoard.h"
+	"Util.cpp"
+	"GameState.h"
+	"StartMenu.h"
+
+1395424962 source:c:\dropbox\games project\tetris\capp.cpp
+	"CApp.h"
+	<SDL/SDL.h>
+	<algorithm>
+	<sstream>
+	<string>
+	<stdio.h>
+	<ctime>
+
+1393955271 source:c:\dropbox\games project\tetris\centity.cpp
+	"CEntity.h"
+	<ctime>
+	<algorithm>
+
+1393955376 c:\dropbox\games project\tetris\centity.h
+	"CSurface.h"
+
+1395614627 source:c:\dropbox\games project\tetris\blocksquare.cpp
+	"BlockSquare.h"
+
+1395614628 c:\dropbox\games project\tetris\blocksquare.h
+	"BlockPiece.h"
+
+1395615332 c:\dropbox\games project\tetris\blockpiece.h
+	"SurfaceHandler.h"
+	"Define.h"
+	<ctime>
+	<algorithm>
+
+1395626138 source:c:\dropbox\games project\tetris\blockpiece.cpp
+	"BlockPiece.h"
+
+1395615441 source:c:\dropbox\games project\tetris\blockl.cpp
+	"BlockL.h"
+
+1395614576 c:\dropbox\games project\tetris\blockl.h
+	"BlockPiece.h"
+
+1395620670 source:c:\dropbox\games project\tetris\blockj.cpp
+	"BlockJ.h"
+
+1395614552 c:\dropbox\games project\tetris\blockj.h
+	"BlockPiece.h"
+
+1395615347 c:\dropbox\games project\tetris\blocks.h
+	"BlockPiece.h"
+
+1395615056 source:c:\dropbox\games project\tetris\blocks.cpp
+	"BlockS.h"
+
+1395615800 c:\dropbox\games project\tetris\blockz.h
+	"BlockPiece.h"
+
+1395615795 source:c:\dropbox\games project\tetris\blockz.cpp
+	"BlockZ.h"
+
+1395614532 c:\dropbox\games project\tetris\blocki.h
+	"BlockPiece.h"
+
+1395615348 source:c:\dropbox\games project\tetris\blocki.cpp
+	"BlockI.h"
+
+1395614667 c:\dropbox\games project\tetris\blockt.h
+	"BlockPiece.h"
+
+1395615753 source:c:\dropbox\games project\tetris\blockt.cpp
+	"BlockT.h"
+
+1395666243 c:\dropbox\games project\tetris\board.h
+	<SDL/SDL.h>
+	"Define.h"
+	"SurfaceHandler.h"
+
+1395666286 source:c:\dropbox\games project\tetris\board.cpp
+	"Board.h"
+	<algorithm>
+
+1393976831 source:c:\dropbox\games project\tetris\cfps.cpp
+	"CFPS.h"
+
+1393976811 c:\dropbox\games project\tetris\cfps.h
+	<SDL/SDL.h>
+
+1395498252 source:c:\dropbox\games project\tetris\csoundbank.cpp
+	"CSoundBank.h"
+
+1395498246 c:\dropbox\games project\tetris\csoundbank.h
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<vector>
+
+1395616491 source:c:\dropbox\games project\tetris\cmessage.cpp
+	"CMessage.h"
+
+1395616253 c:\dropbox\games project\tetris\cmessage.h
+	<SDL/SDL.h>
+	"SurfaceHandler.h"
+	"Define.h"
+
+1395615097 c:\dropbox\games project\tetris\define.h
+
+1394988083 source:c:\dropbox\games project\tetris\highscoreboard.cpp
+	"HighscoreBoard.h"
+
+1395840041 c:\dropbox\games project\tetris\highscoreboard.h
+	<vector>
+	<string>
+
+1395626166 c:\dropbox\games project\tetris\util.cpp
+	<string>
+	<sstream>
+
+1395626166 source:c:\dropbox\games project\tetris\util.cpp
+	<string>
+	<sstream>
+
+1395612080 c:\dropbox\games project\tetris\gamestate.h
+	<SDL/SDL.h>
+	"Define.h"
+	"SurfaceHandler.h"
+	"ReturnParameter.h"
+	"PlayerData.h"
+
+1395613224 c:\dropbox\games project\tetris\startmenu.h
+	"GameState.h"
+
+1395525125 source:c:\dropbox\games project\tetris\startmenu.cpp
+	"StartMenu.h"
+
+1395922378 source:c:\dropbox\games project\tetris\tetris.cpp
+	"Tetris.h"
+
+1395837916 c:\dropbox\games project\tetris\tetris.h
+	<SDL/SDL.h>
+	"Define.h"
+	"GameState.h"
+	"StartMenu.h"
+	"Highscore.h"
+	"MainGame.h"
+	"ReturnParameter.h"
+
+1395837271 c:\dropbox\games project\tetris\surfacehandler.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1395837276 source:c:\dropbox\games project\tetris\surfacehandler.cpp
+	"SurfaceHandler.h"
+
+1395629844 source:c:\dropbox\games project\tetris\highscore.cpp
+	"Highscore.h"
+
+1395627796 c:\dropbox\games project\tetris\highscore.h
+	"GameState.h"
+	<SDL/SDL_ttf.h>
+	<cstdio>
+	"HighscoreBoard.h"
+	<sstream>
+
+1395619285 c:\dropbox\games project\tetris\maingame.h
+	"GameState.h"
+	"Define.h"
+	<SDL/SDL_ttf.h>
+	<algorithm>
+	<ctime>
+	<string>
+	<vector>
+	"Board.h"
+	"SoundBank.h"
+	"BonusMessage.h"
+	"BlockPiece.h"
+	"BlockSquare.h"
+	"BlockL.h"
+	"BlockJ.h"
+	"BlockS.h"
+	"BlockZ.h"
+	"BlockI.h"
+	"BlockT.h"
+
+1395666330 source:c:\dropbox\games project\tetris\maingame.cpp
+	"MainGame.h"
+
+1395514737 c:\dropbox\games project\tetris\returnparameter.h
+
+1395515274 c:\dropbox\games project\tetris\playerdata.h
+	"ReturnParameter.h"
+	<string>
+
+1395922341 source:c:\dropbox\games project\tetris\bonusmessage.cpp
+	"BonusMessage.h"
+
+1395839324 c:\dropbox\games project\tetris\bonusmessage.h
+	<SDL/SDL.h>
+	<vector>
+	"SurfaceHandler.h"
+	"Define.h"
+
+1395618962 c:\dropbox\games project\tetris\soundbank.h
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<vector>
+
+1395618991 source:c:\dropbox\games project\tetris\soundbank.cpp
+	"SoundBank.h"
+
+1395629588 source:c:\dropbox\games project\tetris\icon.rc
+
